@@ -73,6 +73,8 @@ padding:10px 20px;
 }
 .donate-amount li{
     list-style: none;
+    font-weight: 700;
+    font-size: 25px;
 }
 .donate-input{
     margin:0 auto;
